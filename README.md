@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @jobenriquez. I am currently a computer science student at a public university in the Philippines. I am learning Spanish at the moment, but I can already speak Filipino and English (C!).
-- 👀 I’m interested in computers, gaming, and technology in general.
-- 🌱 I’m currently learning how to program in C and Python. I learnt basic C during my first year in college. Additionally, I also am practising making User Interfaces.
-- 📫 You can reach me at my Twitter (@job_cuencaa) or my email (jobiskits@gmail.com).
+- 👋 Hi, I’m @jobenriquez. I am currently a computer science student at Polytechnic University of the Philippines. I speak Filipino, English, and Spanish.
+- 👀 I’m interested in technology (programming, UI/UX design), gaming, and human languages.
+- 🌱 The programming languages I have used throughout college are C, C++, C#, Java, Python, and JavaScript. I'm currently interested in learning JavaScript (React), Python, and Java.
+- 🗒️ I, along with two other people, am in the middle of a thesis project called FiLLM - A Filipino-optimized Large Language Model based on Southeast Asia Large Language Model (SEALLM).
+- 📫 You can reach me through this email: jobiskits@gmail.com.
 
 <!---
 jobenriquez/jobenriquez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
